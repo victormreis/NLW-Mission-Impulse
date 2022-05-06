@@ -5,3 +5,16 @@
 body{
     @apply bg-[#09090A] text-zinc-100
 }
+
+.teste{
+    @apply rounded-[50%]
+    
+}
+
+.teste:hover {
+    border-radius: 0;
+    
+    
+    
+    
+}
